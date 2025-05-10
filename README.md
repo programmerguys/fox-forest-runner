@@ -1,6 +1,8 @@
 # Fox Forest Runner
 
-![Game Screenshot](AssetBundle/Sprites/ForestBackground.png)
+[![Game Screenshot](static/2591746893020_.pic.jpg)](README.zh.md)
+
+*Read this in [简体中文](README.zh.md)*
 
 A simple 2D shooter game created with Godot 4, where you control a fox character shooting at approaching slime enemies.
 
@@ -57,8 +59,4 @@ This is my first game created while learning Godot game development following a 
 
 ## 📄 License
 
-This project is available for personal use and learning purposes.
-
----
-
-*Read this in other languages: [English](README.md), [简体中文](README.zh.md)* 
+This project is available for personal use and learning purposes. 

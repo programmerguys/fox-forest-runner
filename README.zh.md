@@ -1,6 +1,8 @@
 # 狐狸森林跑者
 
-![游戏截图](AssetBundle/Sprites/ForestBackground.png)
+[![游戏截图](static/2591746893020_.pic.jpg)](README.md)
+
+*阅读[English](README.md)版本*
 
 这是一款使用Godot 4制作的简单2D射击游戏，玩家控制一只狐狸角色，射击接近的史莱姆敌人。
 
@@ -57,8 +59,4 @@
 
 ## 📄 许可证
 
-本项目可用于个人使用和学习目的。
-
----
-
-*其他语言版本: [English](README.md), [简体中文](README.zh.md)* 
+本项目可用于个人使用和学习目的。 
